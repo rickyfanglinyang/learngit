@@ -1,0 +1,7 @@
+https://help.github.com/articles/fetching-a-remote/
+Fetching a remote
+
+git clone
+git fetch
+git merge
+git pull
