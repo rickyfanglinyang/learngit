@@ -5,3 +5,8 @@ git clone
 git fetch
 git merge
 git pull
+
+
+---Get all from remote repososity and overwrite all local repository changes
+git fetch --all
+git reset --hard origin/master
